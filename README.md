@@ -33,7 +33,7 @@ $ sqlite3 --version
 3.37 or higher
 ```
 
-Otherwise [here is a SQLite setup guide](https://www.prisma.io/dataguide/sqlite/setting-up-a-local-sqlite-database) by Prisma, a tool we are not using.
+Otherwise [here is a SQLite setup guide.](https://dev.to/dendihandian/installing-sqlite3-in-windows-44eb)
 
 Create a file called `database.sqlite` and put it in the `/backend/database` directory.
 
@@ -50,13 +50,13 @@ $ php artisan migrate
 $ php artisan serve
 ```
 
-Navigating to `localhost:800` should show
+Navigating to `localhost:8000` should show
 
 ```json
 { "Laravel": "10.9.0" }
 ```
 
-Leave that running and open another terminal window to set configure and serve the front end app
+Leave that running and open another terminal window to configure and serve the front end app.
 
 ## Node & NPM
 
