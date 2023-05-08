@@ -1,6 +1,6 @@
 # Media Share (Better Name TBD)
 
-> No more digital rentals!
+> More digital rentals!
 
 Browse and borrow from all your friends collective physical media.
 
